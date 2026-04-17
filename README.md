@@ -35,15 +35,42 @@ This project simulates institutional-level investment research by combining equi
 
 ### Stock Performance
 ![Performance](images/performance.jpg)
+This chart shows the normalized price movement of selected stocks and the S&P 500 over time, allowing comparison of relative performance.
+
+Insights: 
+Tech stocks significantly outperformed the market during growth periods 
+Market downturns show synchronized declines across assets 
+Benchmark comparison helps evaluate alpha generation
 
 ### Correlation Matrix
 ![Correlation](images/correlation.jpg)
 
+This heatmap displays correlations between asset returns, highlighting diversification potential.
+
+Insights: 
+High correlation among tech stocks reduces diversification benefits 
+Inclusion of broader indices helps stabilize portfolio risk 
+Correlation spikes during market stress reduce hedging effectiveness
+
 ### Efficient Frontier
 ![Frontier](images/frontier.jpg)
 
+This plot shows simulated portfolios with varying risk-return profiles, identifying the optimal portfolio using the Sharpe Ratio.
+
+Insights: Optimal portfolio achieves highest return per unit of risk 
+Diversification improves efficiency compared to single-asset strategies 
+Risk-adjusted performance is more meaningful than raw returns
+
 ### Interest Rate Trends
 ![Interest Rates](images/interest_rates.jpg)
+
+This visualization compares interest rate movements with stock returns to analyze macroeconomic impact.
+
+Insights:
+
+Rising interest rates negatively impact equity valuations 
+Macro factors play a critical role in portfolio performance 
+Integrating economic indicators improves decision-making robustness
 
 
 ## 🧠 Key Insights
