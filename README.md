@@ -34,20 +34,16 @@ This project simulates institutional-level investment research by combining equi
 ## 📈 Results
 
 ### Stock Performance
-
-![Performance](images/Stock performance over time.jpg)
+![Performance](images/performance.jpg)
 
 ### Correlation Matrix
-
-![Correlation](images/Correlation Matrix.jpg)
+![Correlation](images/correlation.jpg)
 
 ### Efficient Frontier
-
-![Frontier](images/Efficient Frontier with Optimal Portfolio Mapping.jpg)
+![Frontier](images/frontier.jpg)
 
 ### Interest Rate Trends
-
-![Interest Rates](images/interest rate vs Stock Returns.jpg)
+![Interest Rates](images/interest_rates.jpg)
 
 
 ## 🧠 Key Insights
